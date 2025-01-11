@@ -28,4 +28,8 @@ public class HomePage extends BasePage {
         logger.info("Clicked on this element " + Elements.homeOpenTransfer + " .");
     }
 
+
+
+
+
 }
