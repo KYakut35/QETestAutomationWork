@@ -13,7 +13,7 @@ public class Elements {
     public static By homeLogoutButton = By.xpath("//div[contains(@class,'css-175oi2r r-1awozwy r-6')]");
     public static By homeOpenTransfer = By.xpath("//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')]");
     public static By transferInfoTab = By.xpath("//div[contains(@class,'css-175oi2r r-1pi')]//div[contains(@class,'css-175oi2r r-1pi')]");
-    public static By transferBackButton = By.xpath("//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73')]/div[contains(@class,'css-175oi2r r-1awozwy r-6koalj r-18u37iz')]");
+    public static By transferBackButton = By.xpath("//*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div");
     public static By transferTransferMoneyButton = By.xpath("(//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1]");
     public static By transferAddMoneyButton = By.xpath("(//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2]");
     public static By transferEditAccountButton = By.xpath("(//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3]");
