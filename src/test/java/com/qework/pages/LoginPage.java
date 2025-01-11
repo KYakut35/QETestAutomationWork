@@ -42,7 +42,7 @@ public class LoginPage extends BasePage {
     }
 
     @Step("loginButton elementine tıkla")
-    public void click() {
+    public void loginButtonClick() {
         scrollWithAction(Elements.loginButton);
         findElement(Elements.loginButton).click();
         logger.info("Clicked on this element " + Elements.loginButton + " .");
