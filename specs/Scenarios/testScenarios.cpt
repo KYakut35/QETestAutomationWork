@@ -76,7 +76,7 @@
 * transferMoneySendButton elementine tıkla
 
 # İşlem detayı doğrulanır
-* "1" saniye bekle
+* "2" saniye bekle
 * "1000" textini transferMoneyAmount elementi ile karşılaştır
 
 # Yükleme detayı doğrulanır
@@ -98,7 +98,7 @@
 * "110" textini cardCVV elementine yaz
 * "1" saniye bekle
 * "10000" textini cardAmount elementine yaz
-* "1" saniye bekle
+* "2" saniye bekle
 * cardSend elementine tıkla
 
 # Transfer sayfasından geri butonuna tıklayıp logout olunur

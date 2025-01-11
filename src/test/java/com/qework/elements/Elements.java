@@ -27,7 +27,7 @@ public class Elements {
     public static By date = By.xpath("(//div/div[1]/input) [1]  ");
     public static By cvv = By.xpath("(//div/div[1]/input) [2]  ");
     public static By cardAmount = By.xpath("//div/div[8]/input");
-    public static By cardSend = By.xpath("//div/div[10]");
+    public static By cardSend = By.xpath("(//div/div[10])[2]");
 
 
 }
