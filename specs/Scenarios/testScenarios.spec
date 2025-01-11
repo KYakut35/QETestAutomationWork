@@ -55,4 +55,4 @@ Tags: Login, Edit Account, Logout
 * Yeni hesap ismi girilir ve Send butonuna tıklanır
 * Hesap ismi değişikliği doğrulanır
 * Transfer sayfasından geri butonuna tıklayıp logout olunur
-* homeLogoutButton elementine tıkla
+

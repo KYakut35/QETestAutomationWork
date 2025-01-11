@@ -50,7 +50,7 @@ public class BaseTest  {
 
     @AfterSuite
     public static void tearDown() throws InterruptedException {
-        Thread.sleep(100000);
+        Thread.sleep(500);
         driver.quit();
         logger.info("\nTest Scenario Completed.");
     }
