@@ -30,6 +30,21 @@
 * "1" saniye bekle
 * loginButton elementine tıkla
 
+# Anasayfanın açıldığı kontrol edilir
+* "1" saniye bekle
+* homeInfoTab elementi sayfada var mı kontrol et
+
+# Logout butonuna tıklanır
+* "1" saniye bekle
+* homeLogoutButton elementine tıkla
+
+# Open Transfer butonuna tıklanır
+* "1" saniye bekle
+* homeOpenTransfer elementine tıkla
+
+
+
+
 
 
 
