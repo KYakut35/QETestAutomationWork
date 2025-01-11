@@ -5,6 +5,10 @@
 # Sayfanın açıldığı kontrol edilir
 * loginIcon elementi sayfada var mı kontrol et
 
+# Logout olunduğu kontrol edilir
+* "1" saniye bekle
+* loginIcon elementi sayfada var mı kontrol et
+
 # Login için Username ve Password doğru bir şekilde girilir
 * "kerem.yakut" textini loginUserName elementine yaz
 * "1" saniye bekle
@@ -33,6 +37,10 @@
 # Anasayfanın açıldığı kontrol edilir
 * "1" saniye bekle
 * homeInfoTab elementi sayfada var mı kontrol et
+
+# Transfer sayfasının açıldığı kontrol edilir
+* "1" saniye bekle
+* transferInfoTab elementi sayfada var mı kontrol et
 
 # Logout butonuna tıklanır
 * "1" saniye bekle
@@ -71,9 +79,35 @@
 * "1" saniye bekle
 * "1000" textini transferMoneyAmount elementi ile karşılaştır
 
+# Yükleme detayı doğrulanır
+* "1" saniye bekle
+* "10,000.00" textini transferMoneyAmount elementi ile karşılaştır
+
 # Hesap ismi değişikliği doğrulanır
 * "1" saniye bekle
 * "EdittedName" textini transferAccountName elementi ile karşılaştır
+
+# Yıldızlı alanlar doldurulur ve Send butonuna tıklanır
+* "1" saniye bekle
+* "1234123412341234" textini transferMoneyAmount elementine yaz
+* "1" saniye bekle
+* "Kerem Yakut" textini cardHolder elementine yaz
+* "1" saniye bekle
+* "10/26" textini cardDate elementine yaz
+* "1" saniye bekle
+* "110" textini cardCVV elementine yaz
+* "1" saniye bekle
+* "10000" textini cardAmount elementine yaz
+* "1" saniye bekle
+* cardSend elementine tıkla
+
+# Transfer sayfasından geri butonuna tıklayıp logout olunur
+* "1" saniye bekle
+* transferBackButton elementine tıkla
+* "1" saniye bekle
+* homeLogoutButton elementine tıkla
+
+
 
 
 
