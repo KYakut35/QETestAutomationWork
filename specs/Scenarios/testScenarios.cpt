@@ -42,6 +42,39 @@
 * "1" saniye bekle
 * homeOpenTransfer elementine tıkla
 
+# Transfer Money butonuna tıklanır
+* "1" saniye bekle
+* transferMoney elementine tıkla
+
+# Add Money butonuna tıklanır
+* "1" saniye bekle
+* addMoney elementine tıkla
+
+# Edit Account butonuna tıklanır
+* "1" saniye bekle
+* transferEditAccountButton elementine tıkla
+
+# Yeni hesap ismi girilir ve Send butonuna tıklanır
+* "1" saniye bekle
+* "EdittedName" textini transferEditAccount elementine yaz
+* "1" saniye bekle
+* transferMoneySendButton elementine tıkla
+
+
+# Transfer edilecek Amount girilir ve Send butonuna tıklanır
+* "2" saniye bekle
+* "1000" textini transferMoneyAmount elementine yaz
+* "2" saniye bekle
+* transferMoneySendButton elementine tıkla
+
+# İşlem detayı doğrulanır
+* "1" saniye bekle
+* "1000" textini transferMoneyAmount elementi ile karşılaştır
+
+# Hesap ismi değişikliği doğrulanır
+* "1" saniye bekle
+* "EdittedName" textini transferAccountName elementi ile karşılaştır
+
 
 
 
