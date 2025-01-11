@@ -11,6 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Wait;
+import com.qework.elements.Elements;
 
 import java.time.Duration;
 import java.util.List;
@@ -18,8 +19,9 @@ import java.util.List;
 public class BasePage extends BaseTest {
 
     protected final static Logger logger = Logger.getLogger(BasePage.class);
-
-    protected static WebDriver driver;
+    String testURL = "https://catchylabs-webclient.testinium.com/";
+    protected WebDriver driver;
+    Elements locator = new Elements();
     public BasePage() {
         driver = BaseTest.driver;
     }
@@ -48,6 +50,11 @@ public class BasePage extends BaseTest {
     public List<WebElement> findAllElements(By locator) {
         logger.info(locator + " Elements of this have been found.");
         return driver.findElements(locator);
+    }
+    @Step("Test sayfasina ait linke gidilir")
+    public void goToUrl() {
+        driver.get(testURL);
+        logger.info(testURL + " adresine gidiliyor.");
     }
     @Step("<locator> elementine tıkla")
     public void click(By locator) {
@@ -106,5 +113,7 @@ public class BasePage extends BaseTest {
 
         logger.info("Clicked on the element " + locator + ".");
     }
+
+
 
 }

@@ -2,6 +2,8 @@ package com.qework.driver;
 
 import com.qework.log.Log;
 import com.qework.log.TestResultsLogger;
+import com.thoughtworks.gauge.AfterSuite;
+import com.thoughtworks.gauge.BeforeSuite;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.WebDriver;
@@ -27,16 +29,16 @@ public class BaseTest  {
 
     public static Log logger = new Log();
 
-    @BeforeAll
+    @BeforeSuite
     public static void setup() {
+        driver = new ChromeDriver(chromeOptions());
         System.setProperty("webdriver.chrome.driver","driver/chromedriver.exe");
         String baseURL = "https://catchylabs-webclient.testinium.com/";
-        ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--disable-notifications");
         chromeOptions.addArguments("--disable-gpu");
         chromeOptions.addArguments("--disable-popup-blocking");
         chromeOptions.addArguments("--disable-translate");
-        driver = new ChromeDriver(chromeOptions());
+
         wait = new WebDriverWait(driver, 10);
         driver.get(baseURL);
         driver.manage().window().maximize();
@@ -46,9 +48,9 @@ public class BaseTest  {
         logger.info("Driver initiated.");
     }
 
-    @AfterAll
+    @AfterSuite
     public static void tearDown() throws InterruptedException {
-        Thread.sleep(10000);
+        Thread.sleep(100000);
         driver.quit();
         logger.info("\nTest Scenario Completed.");
     }
