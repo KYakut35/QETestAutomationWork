@@ -1,0 +1,1263 @@
+2025-01-09 17:20:59,637 INFO  [Log] Driver initiated. 
+2025-01-09 17:20:59,756 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-09 17:21:10,064 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:14:08,928 INFO  [Log] Driver initiated. 
+2025-01-11 09:14:09,022 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:14:20,433 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:15:08,829 INFO  [Log] Driver initiated. 
+2025-01-11 09:15:08,955 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:15:20,351 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:19:36,213 INFO  [Log] Driver initiated. 
+2025-01-11 09:19:36,308 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:19:47,697 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:26:23,860 INFO  [Log] Driver initiated. 
+2025-01-11 09:26:23,979 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:26:35,386 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:31:28,363 INFO  [Log] Driver initiated. 
+2025-01-11 09:31:28,605 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:31:40,142 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:32:54,336 INFO  [Log] Driver initiated. 
+2025-01-11 09:32:54,607 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:42:42,016 INFO  [Log] Driver initiated. 
+2025-01-11 09:42:42,108 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:42:43,140 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:42:43,274 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 09:42:43,275 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:42:43,327 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:42:43,405 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 09:44:24,930 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:54:02,391 INFO  [Log] Driver initiated. 
+2025-01-11 09:54:02,508 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:55:43,898 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 09:56:03,978 INFO  [Log] Driver initiated. 
+2025-01-11 09:56:04,098 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 09:56:05,139 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:56:05,285 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 09:56:05,285 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:56:05,362 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 09:56:05,442 INFO  [BasePage] <text> has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 09:57:46,715 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 10:05:19,171 INFO  [Log] Driver initiated. 
+2025-01-11 10:05:19,293 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:05:20,327 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 10:05:20,327 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 10:05:20,380 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:05:20,525 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:05:20,525 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:05:20,577 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:05:20,656 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:05:21,683 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:05:21,821 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:05:21,821 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:05:21,883 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:05:21,957 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:05:22,979 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:05:23,123 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:05:23,123 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:05:23,196 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:07:03,377 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 10:10:07,331 INFO  [Log] Driver initiated. 
+2025-01-11 10:10:07,496 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:10:08,526 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 10:10:08,526 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 10:10:08,579 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:10:08,753 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:10:08,753 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:10:08,824 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:10:08,901 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:10:09,928 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:10:10,081 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:10:10,081 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:10:10,129 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:10:10,207 INFO  [BasePage] FalsePassword has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:10:11,227 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:10:11,383 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:10:11,383 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:10:11,499 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:11:51,609 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 10:13:59,444 INFO  [Log] Driver initiated. 
+2025-01-11 10:13:59,580 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:14:00,616 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 10:14:00,616 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 10:14:00,667 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:14:00,812 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:14:00,812 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:14:00,862 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:14:00,955 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:14:01,982 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:14:02,132 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:14:02,132 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:14:02,177 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:14:02,251 INFO  [BasePage] FalsePassword has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:14:03,275 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:14:03,413 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:14:03,413 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:14:03,486 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:14:04,516 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element located. 
+2025-01-11 10:14:04,516 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element founded. 
+2025-01-11 10:44:09,899 INFO  [Log] Driver initiated. 
+2025-01-11 10:44:09,991 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:44:11,027 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:44:11,190 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:44:11,190 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:44:11,261 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:44:11,332 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:44:12,348 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:44:12,483 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:44:12,483 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:44:12,546 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:44:12,617 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:44:13,638 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:44:13,803 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:44:13,804 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:44:13,906 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:44:13,911 INFO  [BasePage] By.xpath: //div[contains(@class,'css-146c3p1 r-jwli3a r-1')]//div[contains(@class,'css-146c3p1 r-jwli3a r-1')] Element founded. 
+2025-01-11 10:45:23,157 INFO  [Log] Driver initiated. 
+2025-01-11 10:45:23,333 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:45:24,368 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:45:24,523 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:45:24,523 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:45:24,576 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:45:24,654 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:45:25,678 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:45:25,810 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:45:25,810 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:45:25,872 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:45:25,945 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:45:26,969 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:45:27,124 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:45:27,124 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:45:27,196 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:45:27,203 INFO  [BasePage] By.xpath: //div[contains(@class,'css-146c3p1 r-jwli3a r-1')] Element founded. 
+2025-01-11 10:45:27,361 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-146c3p1 r-jwli3a r-1')] has been scrolled. 
+2025-01-11 10:45:27,362 INFO  [BasePage] By.xpath: //div[contains(@class,'css-146c3p1 r-jwli3a r-1')] Element founded. 
+2025-01-11 10:45:27,426 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-146c3p1 r-jwli3a r-1')] . 
+2025-01-11 10:47:07,650 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 10:47:54,928 INFO  [Log] Driver initiated. 
+2025-01-11 10:47:55,078 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 10:47:56,116 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:47:56,266 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 10:47:56,266 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:47:56,334 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 10:47:56,410 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:47:57,439 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:47:57,587 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 10:47:57,587 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:47:57,653 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 10:47:57,744 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 10:47:58,765 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:47:58,933 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 10:47:58,933 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 10:47:59,009 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 10:47:59,015 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 10:47:59,684 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 10:47:59,684 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 10:47:59,761 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 10:49:39,979 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 11:48:22,607 INFO  [Log] Driver initiated. 
+2025-01-11 11:48:22,725 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 11:48:23,749 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:48:23,882 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 11:48:23,882 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:48:23,937 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:48:24,012 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:48:25,037 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:48:25,173 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 11:48:25,173 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:48:25,236 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:48:25,306 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:48:26,329 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:48:26,479 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 11:48:26,479 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:48:26,559 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 11:48:26,568 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:48:27,227 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 11:48:27,227 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:48:27,308 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 11:48:28,331 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:48:28,494 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 11:48:28,494 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:48:28,598 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 11:48:28,605 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 11:50:39,214 INFO  [Log] Driver initiated. 
+2025-01-11 11:50:39,376 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 11:50:40,419 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:50:40,554 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 11:50:40,554 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:50:40,607 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:50:40,683 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:50:41,709 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:50:41,857 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 11:50:41,857 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:50:41,923 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:50:41,993 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:50:43,012 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:50:43,167 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 11:50:43,167 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:50:43,243 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 11:50:43,248 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:50:43,869 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 11:50:43,869 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:50:43,967 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 11:50:44,993 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:50:45,167 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 11:50:45,167 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:50:45,283 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 11:50:45,290 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 11:52:45,786 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 11:53:09,554 INFO  [Log] Driver initiated. 
+2025-01-11 11:53:09,763 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 11:53:10,804 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:53:10,936 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 11:53:10,936 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:53:11,007 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:53:11,083 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:53:12,101 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:53:12,236 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 11:53:12,236 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:53:12,279 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:53:12,359 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:53:13,381 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:53:13,543 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 11:53:13,544 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:53:13,637 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 11:53:13,643 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:53:14,308 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 11:53:14,308 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:53:14,384 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 11:53:15,405 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:53:15,581 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 11:53:15,581 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:53:15,672 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 11:53:15,677 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 11:55:12,358 INFO  [Log] Driver initiated. 
+2025-01-11 11:55:12,564 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 11:55:13,606 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:55:13,769 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 11:55:13,769 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:55:13,834 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 11:55:13,944 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:55:14,968 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:55:15,122 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 11:55:15,122 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:55:15,187 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 11:55:15,265 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 11:55:16,288 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:55:16,445 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 11:55:16,445 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 11:55:16,523 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 11:55:16,531 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:55:17,211 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 11:55:17,211 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 11:55:17,308 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 11:55:18,333 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:55:18,507 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 11:55:18,507 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 11:55:18,614 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 11:55:18,622 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 11:57:19,169 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 12:12:55,992 INFO  [Log] Driver initiated. 
+2025-01-11 12:12:56,104 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 12:12:57,156 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:12:57,313 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 12:12:57,313 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:12:57,376 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:12:57,486 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:12:58,510 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:12:58,662 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 12:12:58,663 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:12:58,707 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:12:58,801 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:12:59,824 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:12:59,978 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 12:12:59,980 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:13:00,073 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 12:13:00,087 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:13:00,787 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 12:13:00,787 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:13:00,907 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 12:13:01,931 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:13:02,081 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 12:13:02,084 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:13:02,175 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 12:13:03,207 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:13:03,363 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 12:13:03,363 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:13:03,474 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:13:03,563 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:13:03,687 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 12:13:05,701 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 12:13:05,861 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 12:13:05,861 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 12:13:05,942 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 12:13:05,996 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 12:13:06,082 INFO  [BasePage] 1000 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 12:13:08,124 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:13:08,294 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 12:13:08,294 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:13:08,392 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 12:14:49,921 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 12:19:27,774 INFO  [Log] Driver initiated. 
+2025-01-11 12:19:27,950 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 12:19:28,980 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:19:29,116 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 12:19:29,116 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:19:29,187 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:19:29,266 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:19:30,288 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:19:30,420 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 12:19:30,420 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:19:30,485 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:19:30,556 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:19:31,586 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:19:31,760 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 12:19:31,760 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:19:31,834 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 12:19:31,840 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:19:32,595 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 12:19:32,595 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:19:32,671 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 12:19:33,702 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:19:33,877 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 12:19:33,877 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:19:33,992 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 12:19:35,021 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:19:35,191 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 12:19:35,191 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:19:35,301 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:19:35,383 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:19:35,484 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 12:19:36,502 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:19:36,656 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 12:19:36,656 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:19:36,762 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 12:21:18,195 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 12:22:21,413 INFO  [Log] Driver initiated. 
+2025-01-11 12:22:21,530 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 12:22:22,557 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:22:22,703 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 12:22:22,703 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:22:22,755 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:22:22,834 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:22:23,859 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:22:23,993 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 12:22:23,993 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:22:24,070 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:22:24,144 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:22:25,164 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:22:25,295 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 12:22:25,297 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:22:25,371 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 12:22:25,376 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:22:26,068 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 12:22:26,068 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:22:26,166 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 12:22:27,187 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:22:27,348 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 12:22:27,348 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:22:27,449 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 12:22:28,493 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:22:28,648 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 12:22:28,648 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:22:28,771 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:22:28,821 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:22:28,902 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 12:22:29,928 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:22:30,096 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 12:22:30,100 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:22:30,187 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 12:22:31,220 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 12:23:22,908 INFO  [Log] Driver initiated. 
+2025-01-11 12:23:23,070 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 12:23:24,112 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:23:24,275 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 12:23:24,275 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:23:24,329 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 12:23:24,404 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:23:25,426 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:23:25,583 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 12:23:25,583 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:23:25,649 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 12:23:25,721 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 12:23:26,747 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:23:26,933 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 12:23:26,937 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 12:23:27,026 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 12:23:27,033 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:23:27,652 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 12:23:27,652 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 12:23:27,753 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 12:23:28,777 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:23:28,951 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 12:23:28,951 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 12:23:29,027 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 12:23:30,058 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:23:30,229 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 12:23:30,229 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:23:30,341 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:23:30,401 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 12:23:30,503 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 12:23:31,543 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:23:31,711 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 12:23:31,711 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 12:23:31,787 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 12:23:32,810 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 12:23:32,844 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 12:25:13,053 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 13:12:59,079 INFO  [Log] Driver initiated. 
+2025-01-11 13:12:59,168 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:13:00,198 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:13:00,364 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:13:00,365 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:13:00,418 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:13:00,497 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:13:01,524 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:13:01,659 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:13:01,660 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:13:01,726 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:13:01,795 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:13:02,813 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:13:02,952 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:13:02,955 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:13:03,046 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:13:03,054 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:13:03,753 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:13:03,753 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:13:03,843 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:13:04,881 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:13:05,047 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 13:13:05,052 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:13:05,149 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 13:13:05,156 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:14:33,066 INFO  [Log] Driver initiated. 
+2025-01-11 13:14:33,158 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:14:34,193 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:14:34,359 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:14:34,359 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:14:34,430 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:14:34,507 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:14:35,530 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:14:35,683 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:14:35,683 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:14:35,728 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:14:35,801 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:14:36,830 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:14:37,022 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:14:37,027 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:14:37,118 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:14:37,137 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:14:37,759 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:14:37,759 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:14:37,862 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:14:38,896 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:14:39,070 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 13:14:39,070 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:14:39,171 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 13:14:39,179 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:15:45,498 INFO  [Log] Driver initiated. 
+2025-01-11 13:15:45,607 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:15:46,636 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:15:46,769 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:15:46,769 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:15:46,838 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:15:46,916 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:15:47,931 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:15:48,067 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:15:48,067 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:15:48,131 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:15:48,204 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:15:49,221 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:15:49,365 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:15:49,365 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:15:49,453 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:15:49,461 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:15:50,149 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:15:50,150 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:15:50,243 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:15:51,271 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:15:51,444 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 13:15:51,444 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:15:51,548 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 13:15:53,578 INFO  [BasePage] By.xpath: By.cssSelector('[placeholder]') Element founded. 
+2025-01-11 13:16:42,837 INFO  [Log] Driver initiated. 
+2025-01-11 13:16:42,955 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:16:43,981 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:16:44,112 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:16:44,112 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:16:44,189 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:16:44,275 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:16:45,305 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:16:45,451 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:16:45,451 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:16:45,519 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:16:45,596 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:16:46,632 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:16:46,799 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:16:46,799 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:16:46,899 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:16:46,907 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:16:47,599 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:16:47,599 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:16:47,677 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:16:48,703 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:16:48,864 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 13:16:48,864 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:16:48,967 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 13:16:51,013 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:16:51,194 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 13:16:51,194 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:16:51,322 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:16:51,366 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:16:51,432 INFO  [BasePage] 1000 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 13:16:53,471 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:16:53,630 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 13:16:53,630 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:16:53,731 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 13:16:53,744 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:19:05,561 INFO  [Log] Driver initiated. 
+2025-01-11 13:19:05,708 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:19:06,749 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:19:06,905 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:19:06,906 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:19:06,988 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:19:07,111 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:19:08,144 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:19:08,302 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:19:08,302 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:19:08,359 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:19:08,440 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:19:09,464 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:19:09,635 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:19:09,636 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:19:09,724 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:19:09,732 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:19:10,451 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:19:10,451 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:19:10,533 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:19:11,557 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:19:11,728 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 13:19:11,728 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 13:19:11,856 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 13:19:13,876 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:19:14,028 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 13:19:14,028 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:19:14,195 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:19:14,236 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:19:14,315 INFO  [BasePage] 1000 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 13:19:16,362 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:19:16,527 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 13:19:16,527 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 13:19:16,677 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 13:19:17,716 INFO  [BasePage] By.xpath: //div[@class='css-175oi2r']//div[1]//div[1]//div[1]//div[1]//div[4]//div[2]//div[1] Element founded. 
+2025-01-11 13:20:58,284 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 13:58:58,640 INFO  [Log] Driver initiated. 
+2025-01-11 13:58:58,731 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 13:58:59,768 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:58:59,936 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 13:58:59,937 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:58:59,990 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 13:59:00,074 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:59:01,107 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:59:01,255 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 13:59:01,255 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:59:01,319 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 13:59:01,393 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 13:59:02,409 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:59:02,582 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 13:59:02,582 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 13:59:02,655 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 13:59:02,662 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:59:03,396 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 13:59:03,396 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 13:59:03,494 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 13:59:04,516 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 13:59:04,675 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 13:59:04,675 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 13:59:04,784 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 13:59:05,812 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:59:05,974 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 13:59:05,974 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:59:06,080 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:59:06,132 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 13:59:06,252 INFO  [BasePage] 1234 1234 1234 1234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 13:59:07,279 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 13:59:07,440 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 13:59:07,440 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 13:59:07,531 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 13:59:07,612 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:00:14,815 INFO  [Log] Driver initiated. 
+2025-01-11 14:00:14,943 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:00:15,980 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:00:16,115 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:00:16,115 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:00:16,170 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:00:16,245 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:00:17,260 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:00:17,396 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:00:17,396 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:00:17,440 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:00:17,523 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:00:18,545 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:00:18,732 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:00:18,732 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:00:18,803 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:00:18,810 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:00:19,485 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:00:19,486 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:00:19,559 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:00:20,579 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:00:20,746 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 14:00:20,746 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:00:20,906 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 14:00:21,936 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:00:22,099 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:00:22,099 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:00:22,202 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:00:22,249 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:00:22,387 INFO  [BasePage] 1234 1234 1234 1234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:00:23,409 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:00:23,562 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 14:00:23,562 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:00:23,679 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:00:23,732 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:00:48,203 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:01:45,392 INFO  [Log] Driver initiated. 
+2025-01-11 14:01:45,547 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:01:46,578 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:01:46,737 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:01:46,738 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:01:46,801 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:01:46,916 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:01:47,934 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:01:48,067 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:01:48,069 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:01:48,134 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:01:48,210 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:01:49,229 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:01:49,390 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:01:49,390 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:01:49,472 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:01:49,480 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:01:51,927 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:01:51,928 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:01:52,004 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:01:53,024 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:01:53,157 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 14:01:53,159 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:01:53,251 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 14:01:54,278 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:01:54,410 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:01:54,410 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:01:54,491 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:01:54,535 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:01:54,667 INFO  [BasePage] 1234 1234 1234 1234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:01:55,697 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:01:55,845 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 14:01:55,845 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:01:55,951 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:01:56,002 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:03:36,495 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:03:58,273 INFO  [Log] Driver initiated. 
+2025-01-11 14:03:58,416 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:03:59,454 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:03:59,601 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:03:59,601 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:03:59,657 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:03:59,769 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:04:00,791 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:04:00,941 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:04:00,941 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:04:00,992 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:04:01,087 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:04:02,120 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:04:02,266 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:04:02,267 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:04:02,338 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:04:02,345 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:04:03,014 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:04:03,015 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:04:03,100 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:04:04,119 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:04:04,283 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 14:04:04,284 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:04:04,367 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 14:04:05,400 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:04:05,530 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:04:05,530 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:04:05,611 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:04:05,670 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:04:05,794 INFO  [BasePage] 1234123412341234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:04:06,825 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:04:06,993 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 14:04:06,994 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:04:07,082 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:04:07,136 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:04:07,220 INFO  [BasePage] Kerem Yakut has been written to this element By.xpath: //div/div[4]/input . 
+2025-01-11 14:04:08,272 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:04:08,449 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [1]   has been scrolled. 
+2025-01-11 14:04:08,449 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:04:08,530 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:04:08,575 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:04:08,694 INFO  [BasePage] 10/26 has been written to this element By.xpath: (//div/div[1]/input) [1]   . 
+2025-01-11 14:04:09,729 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:04:09,879 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [2]   has been scrolled. 
+2025-01-11 14:04:09,880 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:04:09,973 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:04:10,018 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:04:10,102 INFO  [BasePage] 110 has been written to this element By.xpath: (//div/div[1]/input) [2]   . 
+2025-01-11 14:04:11,144 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:04:11,296 INFO  [BasePage] This element By.xpath: //div/div[8]/input has been scrolled. 
+2025-01-11 14:04:11,296 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:04:11,407 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:04:11,456 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:04:11,510 INFO  [BasePage] 10000 has been written to this element By.xpath: //div/div[8]/input . 
+2025-01-11 14:04:12,535 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:04:12,703 INFO  [BasePage] This element By.xpath: //div/div[10] has been scrolled. 
+2025-01-11 14:04:12,703 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:04:12,780 INFO  [BasePage] Clicked on this element By.xpath: //div/div[10] . 
+2025-01-11 14:04:13,819 INFO  [BasePage] By.xpath: //div[@class='css-175oi2r']//div[1]//div[1]//div[1]//div[1]//div[4]//div[2]//div[1] Element founded. 
+2025-01-11 14:05:00,829 INFO  [Log] Driver initiated. 
+2025-01-11 14:05:00,959 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:05:01,991 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:05:02,155 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:05:02,155 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:05:02,231 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:05:02,320 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:05:03,333 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:05:03,500 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:05:03,501 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:05:03,573 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:05:03,695 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:05:04,727 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:05:04,918 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:05:04,918 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:05:04,990 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:05:04,999 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:05:05,776 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:05:05,776 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:05:05,850 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:05:06,871 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:05:07,047 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 14:05:07,048 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:05:07,138 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 14:05:08,159 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:05:08,322 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:05:08,322 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:05:08,416 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:05:08,463 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:05:08,579 INFO  [BasePage] 1234123412341234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:05:09,610 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:05:09,785 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 14:05:09,786 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:05:09,884 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:05:09,936 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:05:10,023 INFO  [BasePage] Kerem Yakut has been written to this element By.xpath: //div/div[4]/input . 
+2025-01-11 14:05:11,057 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:05:11,218 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [1]   has been scrolled. 
+2025-01-11 14:05:11,219 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:05:11,322 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:05:11,380 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:05:11,447 INFO  [BasePage] 10/26 has been written to this element By.xpath: (//div/div[1]/input) [1]   . 
+2025-01-11 14:05:12,476 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:05:12,636 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [2]   has been scrolled. 
+2025-01-11 14:05:12,637 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:05:12,725 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:05:12,783 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:05:12,834 INFO  [BasePage] 110 has been written to this element By.xpath: (//div/div[1]/input) [2]   . 
+2025-01-11 14:05:13,859 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:05:14,004 INFO  [BasePage] This element By.xpath: //div/div[8]/input has been scrolled. 
+2025-01-11 14:05:14,004 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:05:14,100 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:05:14,161 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:05:14,248 INFO  [BasePage] 10000 has been written to this element By.xpath: //div/div[8]/input . 
+2025-01-11 14:05:15,282 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:05:15,451 INFO  [BasePage] This element By.xpath: //div/div[10] has been scrolled. 
+2025-01-11 14:05:15,452 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:05:15,538 INFO  [BasePage] Clicked on this element By.xpath: //div/div[10] . 
+2025-01-11 14:05:16,567 INFO  [BasePage] By.xpath: //div[@class='css-175oi2r']//div[1]//div[1]//div[1]//div[1]//div[4]//div[2]//div[1] Element founded. 
+2025-01-11 14:05:16,607 INFO  [BasePage] 10,000.00 textiyle 10,000.00 texti karşılaştırıldı. 
+2025-01-11 14:06:50,935 INFO  [Log] Driver initiated. 
+2025-01-11 14:06:51,064 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:06:52,096 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:06:52,246 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:06:52,247 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:06:52,302 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:06:52,380 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:06:53,408 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:06:53,540 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:06:53,541 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:06:53,588 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:06:53,668 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:06:54,686 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:06:54,848 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:06:54,849 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:06:54,942 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:06:54,949 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:06:55,597 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:06:55,597 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:06:55,678 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:06:56,712 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:06:56,875 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] has been scrolled. 
+2025-01-11 14:06:56,875 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] Element founded. 
+2025-01-11 14:06:56,980 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[2] . 
+2025-01-11 14:06:58,007 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:06:58,170 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:06:58,170 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:06:58,265 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:06:58,313 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:06:58,446 INFO  [BasePage] 1234123412341234 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:06:59,473 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:06:59,657 INFO  [BasePage] This element By.xpath: //div/div[4]/input has been scrolled. 
+2025-01-11 14:06:59,657 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:06:59,760 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:06:59,800 INFO  [BasePage] By.xpath: //div/div[4]/input Element founded. 
+2025-01-11 14:06:59,889 INFO  [BasePage] Kerem Yakut has been written to this element By.xpath: //div/div[4]/input . 
+2025-01-11 14:07:00,920 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:07:01,072 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [1]   has been scrolled. 
+2025-01-11 14:07:01,072 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:07:01,176 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:07:01,230 INFO  [BasePage] By.xpath: (//div/div[1]/input) [1]   Element founded. 
+2025-01-11 14:07:01,313 INFO  [BasePage] 10/26 has been written to this element By.xpath: (//div/div[1]/input) [1]   . 
+2025-01-11 14:07:02,337 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:07:02,514 INFO  [BasePage] This element By.xpath: (//div/div[1]/input) [2]   has been scrolled. 
+2025-01-11 14:07:02,514 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:07:02,600 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:07:02,655 INFO  [BasePage] By.xpath: (//div/div[1]/input) [2]   Element founded. 
+2025-01-11 14:07:02,712 INFO  [BasePage] 110 has been written to this element By.xpath: (//div/div[1]/input) [2]   . 
+2025-01-11 14:07:03,734 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:07:03,887 INFO  [BasePage] This element By.xpath: //div/div[8]/input has been scrolled. 
+2025-01-11 14:07:03,888 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:07:03,991 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:07:04,047 INFO  [BasePage] By.xpath: //div/div[8]/input Element founded. 
+2025-01-11 14:07:04,107 INFO  [BasePage] 10000 has been written to this element By.xpath: //div/div[8]/input . 
+2025-01-11 14:07:05,139 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:07:05,304 INFO  [BasePage] This element By.xpath: //div/div[10] has been scrolled. 
+2025-01-11 14:07:05,304 INFO  [BasePage] By.xpath: //div/div[10] Element founded. 
+2025-01-11 14:08:46,880 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:43:15,838 INFO  [Log] Driver initiated. 
+2025-01-11 14:43:15,959 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:43:17,003 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 14:43:17,003 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 14:43:17,095 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:17,277 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:43:17,277 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:17,370 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:17,498 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:18,529 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:18,675 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:43:18,675 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:18,720 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:18,811 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:19,837 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:19,991 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:43:19,991 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:20,086 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:43:20,209 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:43:21,236 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 14:43:21,236 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 14:43:21,301 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:21,452 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:43:21,452 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:21,499 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:21,615 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:22,638 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:22,789 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:43:22,790 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:22,838 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:22,908 INFO  [BasePage] FalsePassword has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:23,929 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:24,080 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:43:24,081 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:24,152 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:43:25,174 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element located. 
+2025-01-11 14:43:25,174 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element founded. 
+2025-01-11 14:43:25,293 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:43:26,322 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:26,490 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:43:26,490 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:26,575 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:43:26,689 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:27,701 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:27,852 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:43:27,853 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:27,939 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:43:28,033 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:43:29,048 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:29,184 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:43:29,184 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:43:29,287 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:43:29,292 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 14:43:29,292 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 14:43:30,040 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:43:30,208 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:43:30,208 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:43:30,326 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:43:30,331 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1pi')]//div[contains(@class,'css-175oi2r r-1pi')] Element located. 
+2025-01-11 14:43:30,331 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1pi')]//div[contains(@class,'css-175oi2r r-1pi')] Element founded. 
+2025-01-11 14:43:50,657 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:43:51,679 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:44:11,922 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:44:12,943 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:13,740 INFO  [Log] Driver initiated. 
+2025-01-11 14:45:13,949 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:45:14,978 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 14:45:14,979 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 14:45:15,023 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:15,184 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:45:15,184 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:15,255 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:15,372 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:16,396 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:16,557 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:45:16,558 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:16,610 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:16,688 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:17,711 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:17,847 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:45:17,848 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:17,919 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:45:17,993 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:45:19,021 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element located. 
+2025-01-11 14:45:19,021 INFO  [BasePage] By.xpath: //img[contains(@class,'css')] Element founded. 
+2025-01-11 14:45:19,063 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:19,205 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:45:19,205 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:19,245 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:19,316 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:20,330 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:20,478 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:45:20,478 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:20,530 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:20,595 INFO  [BasePage] FalsePassword has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:21,623 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:21,771 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:45:21,771 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:21,848 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:45:22,863 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element located. 
+2025-01-11 14:45:22,863 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-4')] Element founded. 
+2025-01-11 14:45:23,001 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:45:24,031 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:24,180 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:45:24,180 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:24,227 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:24,304 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:25,324 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:25,463 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:45:25,464 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:25,526 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:45:25,598 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:45:26,613 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:26,763 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:45:26,764 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:45:26,880 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:45:26,885 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 14:45:26,885 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 14:45:27,399 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:45:27,538 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:45:27,539 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:45:27,630 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:45:28,647 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 14:45:28,786 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] has been scrolled. 
+2025-01-11 14:45:28,786 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] Element founded. 
+2025-01-11 14:45:28,911 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[1] . 
+2025-01-11 14:45:30,926 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:45:31,077 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css-11')] has been scrolled. 
+2025-01-11 14:45:31,077 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:45:31,153 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:45:31,207 INFO  [BasePage] By.xpath: //input[contains(@class,'css-11')] Element founded. 
+2025-01-11 14:45:31,266 INFO  [BasePage] 1000 has been written to this element By.xpath: //input[contains(@class,'css-11')] . 
+2025-01-11 14:45:33,293 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:45:33,429 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 14:45:33,430 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:45:33,514 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 14:45:34,540 INFO  [BasePage] By.xpath: //div[@class='css-175oi2r']//div[1]//div[1]//div[1]//div[1]//div[4]//div[2]//div[1] Element founded. 
+2025-01-11 14:45:34,828 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:45:35,851 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:45:56,199 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:45:57,225 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:46:54,626 INFO  [Log] Driver initiated. 
+2025-01-11 14:46:54,729 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:46:55,765 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:46:55,929 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:46:55,930 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:46:56,005 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:46:56,106 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:46:57,120 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:46:57,279 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:46:57,279 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:46:57,326 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:46:57,415 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:46:58,439 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:46:58,593 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:46:58,593 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:46:58,718 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:46:58,725 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 14:46:58,725 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 14:46:59,404 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:46:59,543 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:46:59,543 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:46:59,675 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:47:00,718 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:47:03,456 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 14:47:03,456 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:47:03,556 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 14:47:04,600 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:47:04,754 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 14:47:04,754 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:47:04,858 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:47:04,926 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:47:05,017 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 14:47:06,047 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:47:06,256 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 14:47:06,256 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:47:06,369 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 14:47:07,400 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 14:47:07,440 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 14:47:57,636 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:48:47,634 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:56:36,394 INFO  [Log] Driver initiated. 
+2025-01-11 14:56:36,508 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:56:37,534 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:56:37,670 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:56:37,670 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:56:37,740 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:56:37,813 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:56:38,836 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:56:38,984 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:56:38,984 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:56:39,050 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:56:39,123 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:56:40,146 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:56:40,300 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:56:40,300 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:56:40,373 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:56:40,379 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 14:56:40,379 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 14:56:41,036 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:56:41,180 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:56:41,180 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:56:41,277 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:56:42,309 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:56:42,479 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 14:56:42,479 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:56:42,602 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 14:56:43,651 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:56:43,813 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 14:56:43,815 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:56:43,911 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:56:43,982 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:56:44,089 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 14:56:45,110 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:56:45,261 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 14:56:45,266 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:56:45,363 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 14:56:46,391 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 14:56:46,416 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 14:56:47,445 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:58:47,787 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 14:59:00,674 INFO  [Log] Driver initiated. 
+2025-01-11 14:59:00,794 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 14:59:01,817 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:59:01,984 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 14:59:01,985 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:59:02,050 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 14:59:02,128 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:59:03,146 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:59:03,278 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 14:59:03,278 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:59:03,324 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 14:59:03,401 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 14:59:04,426 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:59:04,578 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 14:59:04,578 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 14:59:04,655 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 14:59:04,662 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 14:59:04,662 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 14:59:05,239 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:59:05,394 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 14:59:05,394 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 14:59:05,494 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 14:59:06,553 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:59:06,710 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 14:59:06,710 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 14:59:06,832 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 14:59:07,856 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:59:08,025 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 14:59:08,025 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:59:08,137 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:59:08,217 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 14:59:08,335 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 14:59:09,372 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:59:09,525 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 14:59:09,525 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 14:59:09,641 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 14:59:10,669 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 14:59:10,701 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 14:59:11,744 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:00:13,897 INFO  [Log] Driver initiated. 
+2025-01-11 15:00:14,023 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 15:00:15,060 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:00:15,236 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 15:00:15,236 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:00:15,307 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:00:15,385 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:00:16,409 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:00:16,557 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 15:00:16,557 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:00:16,621 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:00:16,694 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:00:17,718 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:00:17,885 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 15:00:17,885 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:00:17,958 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 15:00:17,965 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 15:00:17,965 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 15:00:18,623 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:00:18,783 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 15:00:18,783 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:00:18,863 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 15:00:19,883 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:00:20,066 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 15:00:20,066 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:00:20,174 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 15:00:21,210 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:00:21,366 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 15:00:21,370 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:00:21,469 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:00:21,536 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:00:21,637 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 15:00:22,655 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:00:22,815 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 15:00:22,815 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:00:22,946 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 15:00:23,977 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 15:00:24,016 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 15:00:25,042 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:00:25,178 INFO  [BasePage] This element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div has been scrolled. 
+2025-01-11 15:00:25,178 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:00:25,256 INFO  [BasePage] Clicked on this element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div . 
+2025-01-11 15:00:26,282 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:00:26,444 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] has been scrolled. 
+2025-01-11 15:00:26,448 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:00:26,550 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] . 
+2025-01-11 15:02:06,748 INFO  [Log] 
+Test Scenario Completed. 
+2025-01-11 15:02:30,185 INFO  [Log] Driver initiated. 
+2025-01-11 15:02:30,316 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 15:02:31,366 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:02:31,558 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 15:02:31,562 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:02:31,621 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:02:31,729 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:02:32,752 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:02:32,909 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 15:02:32,909 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:02:32,973 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:02:33,048 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:02:34,073 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:02:34,222 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 15:02:34,222 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:02:34,362 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 15:02:34,370 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 15:02:34,371 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 15:02:34,964 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:02:35,124 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 15:02:35,124 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:02:35,227 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 15:02:36,252 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:02:36,404 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 15:02:36,404 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:02:36,530 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 15:02:37,566 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:02:37,719 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 15:02:37,719 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:02:37,798 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:02:37,865 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:02:37,982 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 15:02:39,028 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:02:39,203 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 15:02:39,205 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:02:39,284 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 15:02:40,324 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 15:02:40,362 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 15:02:41,392 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:02:41,550 INFO  [BasePage] This element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div has been scrolled. 
+2025-01-11 15:02:41,554 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:02:41,676 INFO  [BasePage] Clicked on this element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div . 
+2025-01-11 15:02:42,696 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:02:42,848 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] has been scrolled. 
+2025-01-11 15:02:42,852 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:02:42,970 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] . 
+2025-01-11 15:02:42,977 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:03:45,958 INFO  [Log] Driver initiated. 
+2025-01-11 15:03:46,056 INFO  [BasePage] https://catchylabs-webclient.testinium.com/ adresine gidiliyor. 
+2025-01-11 15:03:47,086 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:03:47,236 INFO  [BasePage] This element By.xpath: //input[@placeholder='Username'] has been scrolled. 
+2025-01-11 15:03:47,236 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:03:47,293 INFO  [BasePage] By.xpath: //input[@placeholder='Username'] Element founded. 
+2025-01-11 15:03:47,373 INFO  [BasePage] kerem.yakut has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:03:48,397 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:03:48,545 INFO  [BasePage] This element By.xpath: //input[@placeholder='Password'] has been scrolled. 
+2025-01-11 15:03:48,546 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:03:48,617 INFO  [BasePage] By.xpath: //input[@placeholder='Password'] Element founded. 
+2025-01-11 15:03:48,683 INFO  [BasePage] Sadecesev321 has been written to this element By.xpath: //input[@placeholder='Username'] . 
+2025-01-11 15:03:49,710 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:03:49,860 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] has been scrolled. 
+2025-01-11 15:03:49,860 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] Element founded. 
+2025-01-11 15:03:49,954 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6')] . 
+2025-01-11 15:03:49,961 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element located. 
+2025-01-11 15:03:49,961 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i3')] Element founded. 
+2025-01-11 15:03:50,817 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:03:50,960 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] has been scrolled. 
+2025-01-11 15:03:50,960 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] Element founded. 
+2025-01-11 15:03:51,054 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r')] . 
+2025-01-11 15:03:52,085 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:03:52,241 INFO  [BasePage] This element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] has been scrolled. 
+2025-01-11 15:03:52,241 INFO  [BasePage] By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] Element founded. 
+2025-01-11 15:03:52,377 INFO  [BasePage] Clicked on this element By.xpath: (//div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-17')])[3] . 
+2025-01-11 15:03:53,419 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:03:53,590 INFO  [BasePage] This element By.xpath: //input[contains(@class,'css')] has been scrolled. 
+2025-01-11 15:03:53,590 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:03:53,718 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:03:53,802 INFO  [BasePage] By.xpath: //input[contains(@class,'css')] Element founded. 
+2025-01-11 15:03:53,947 INFO  [BasePage] EdittedName has been written to this element By.xpath: //input[contains(@class,'css')] . 
+2025-01-11 15:03:54,972 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:03:55,139 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] has been scrolled. 
+2025-01-11 15:03:55,139 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] Element founded. 
+2025-01-11 15:03:55,244 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-169ebfh r-z2wwpe r-h3s6tt r-1777fci r-tsynxw r-13')] . 
+2025-01-11 15:03:56,270 INFO  [BasePage] By.cssSelector: div[class='css-175oi2r r-14lw9ot r-z2wwpe r-edyy15'] div:nth-child(1) div:nth-child(2) Element founded. 
+2025-01-11 15:03:56,295 INFO  [BasePage] EdittedName textiyle EdittedName texti karşılaştırıldı. 
+2025-01-11 15:03:57,322 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:03:57,488 INFO  [BasePage] This element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div has been scrolled. 
+2025-01-11 15:03:57,488 INFO  [BasePage] By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div Element founded. 
+2025-01-11 15:03:57,619 INFO  [BasePage] Clicked on this element By.xpath: //*[@id='root']/div/div[2]/div[2]/div[2]/div[2]/div[2]/div[1]/div/div . 
+2025-01-11 15:03:58,641 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:03:58,803 INFO  [BasePage] This element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] has been scrolled. 
+2025-01-11 15:03:58,803 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
+2025-01-11 15:03:58,934 INFO  [BasePage] Clicked on this element By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] . 
+2025-01-11 15:03:58,945 INFO  [BasePage] By.xpath: //div[contains(@class,'css-175oi2r r-1awozwy r-6')] Element founded. 
