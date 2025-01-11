@@ -8,5 +8,7 @@ public class Elements {
     public static By loginUserName = By.xpath("//input[@placeholder='Username']");
     public static By loginPassword = By.xpath("//input[@placeholder='Password']");
     public static By loginButton = By.xpath("//div[contains(@class,'css-175oi2r r-1i6')]");
+    public static By loginAlertMessage = By.xpath("//div[contains(@class,'css-175oi2r r-4')]");
+
 
 }

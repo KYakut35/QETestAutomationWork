@@ -1,0 +1,35 @@
+# URL linkine gidilir
+* Test sayfasina ait linke gidilir
+* "1" saniye bekle
+
+# Sayfanın açıldığı kontrol edilir
+* loginIcon elementi sayfada var mı kontrol et
+
+# Login için Username ve Password doğru bir şekilde girilir
+* "kerem.yakut" textini loginUserName elementine yaz
+* "1" saniye bekle
+* "Sadecesev321" textini loginPassword elementine yaz
+* "1" saniye bekle
+* loginButton elementine tıkla
+
+# Login için Username ve Password yanlış bir şekilde girilir
+* "kerem.yakut" textini loginUserName elementine yaz
+* "1" saniye bekle
+* "FalsePassword" textini loginPassword elementine yaz
+* "1" saniye bekle
+* loginButton elementine tıkla
+* "1" saniye bekle
+* loginAlertMessage elementi sayfada var mı kontrol et
+
+# Başarılı bir şekilde login olunur
+* Test sayfasina ait linke gidilir
+* "1" saniye bekle
+* "kerem.yakut" textini loginUserName elementine yaz
+* "1" saniye bekle
+* "Sadecesev321" textini loginPassword elementine yaz
+* "1" saniye bekle
+* loginButton elementine tıkla
+
+
+
+

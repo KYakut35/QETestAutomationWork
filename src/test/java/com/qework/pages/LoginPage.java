@@ -12,9 +12,15 @@ public class LoginPage extends BasePage {
     }
 
     @Step("loginIcon elementi sayfada var mı kontrol et")
-    public boolean isDisplayed() {
+    public boolean loginIconIsDisplayed() {
         logger.info(Elements.loginIcon + " Element located.");
         return findElement(Elements.loginIcon).isDisplayed();
+    }
+
+    @Step("loginAlertMessage elementi sayfada var mı kontrol et")
+    public boolean loginAlertIsDisplayed() {
+        logger.info(Elements.loginAlertMessage + " Element located.");
+        return findElement(Elements.loginAlertMessage).isDisplayed();
     }
 
 
